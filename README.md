@@ -4,9 +4,9 @@ This project is going to be a eCommerce website for a photography shopping websi
 
 ## Technology
 
--React
--BootStrap
--MongoDB
--Express
--Node.js
--Redux?
+*-React
+*-BootStrap
+*-MongoDB
+*-Express
+*-Node.js
+*-Redux?
