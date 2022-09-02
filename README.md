@@ -10,3 +10,8 @@ This project is going to be a eCommerce website for a photography shopping websi
 * -Express
 * -Node.js
 * -Redux?
+
+
+
+#Images
+![Image]([http://www.imageURL.com](https://i.imgur.com/mSdUB9k.png))
